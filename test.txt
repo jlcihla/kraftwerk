@@ -1,1 +1,2 @@
 This is a new file created with VIM for the example of using git
+Adding another line to the test.txt file to explore the "push" function
